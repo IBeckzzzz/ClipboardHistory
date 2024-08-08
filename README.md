@@ -6,9 +6,9 @@ ClipboardHistory é um aplicativo macOS que armazena o histórico de textos copi
 
 - **Armazenamento de Histórico de Clipboard**: Mantém um registro de todos os textos copiados para a área de transferência.
 - **Navegação Rápida**: Use as teclas de seta para navegar rapidamente pelo histórico.
-- **Seleção e Cópia**: Clique em um item para copiá-lo de volta para a área de transferência, ou use `Enter` para copiar o item selecionado.
+- **Seleção e Cópia**: Clique em um item para copiá-lo de volta para a área de transferência, ou aperte `tab`, assim que a seleção ficar cinza use `Enter` para copiar o item selecionado.
 - **Limpar Histórico**: Botão para limpar todo o histórico de itens copiados.
-- **Atalho de Teclado**: Use `fn + command + v` para abrir rapidamente o aplicativo.
+- **Atalho de Teclado**: Use `fn + command + v` para abrir rapidamente o aplicativo. `Em Andamento`
 
 ## Documentos do Projeto
 
